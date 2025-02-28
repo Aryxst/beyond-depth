@@ -23,7 +23,7 @@ icon.png
 knownkeys.txt
 options.txt
 rhino.local.properties
-servers.dat
+servers*.dat*
 
 # Config(auto-generated)
 config/alexscaves_biome_generation
