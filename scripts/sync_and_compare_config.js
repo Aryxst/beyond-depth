@@ -3,10 +3,12 @@ import fs from "node:fs";
 import path from "node:path";
 
 // Directory containing the default (auto-generated) configuration. To obtain this, delete the existing 'config' folder and launch the instance to regenerate it.
+// Example:
 const folder1 =
   "C:/Users/Aryxst/AppData/Roaming/PrismLauncher/instances/Beyond Depth DEV - No Config/minecraft/config";
 
 // Directory containing modified configurations (to be included) and auto-generated configurations (to be excluded).
+// Example:
 const folder2 =
   "C:/Users/Aryxst/AppData/Roaming/PrismLauncher/instances/Beyond Depth DEV/minecraft/config";
 
