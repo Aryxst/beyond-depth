@@ -434,3 +434,4 @@ config/xaerominimap_entities.json
 config/fabric/indigo-renderer.properties
 config/sound_physics_remastered/occlusion.properties
 config/sound_physics_remastered/reflectivity.properties
+config/forgeendertech/cached.dat
