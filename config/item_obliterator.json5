@@ -1,0 +1,229 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+    "exlinecopperequipment:copper_chestplate",
+    "exlinecopperequipment:copper_helmet",
+    "exlinecopperequipment:copper_leggings",
+    "exlinecopperequipment:copper_boots",
+    "exlinecopperequipment:copper_nugget",
+    "upgrade_aquatic:bedroll",
+    "upgrade_aquatic:white_bedroll",
+    "upgrade_aquatic:orange_bedroll",
+    "upgrade_aquatic:magenta_bedroll",
+    "upgrade_aquatic:light_blue_bedroll",
+    "upgrade_aquatic:yellow_bedroll",
+    "upgrade_aquatic:lime_bedroll",
+    "upgrade_aquatic:pink_bedroll",
+    "upgrade_aquatic:gray_bedroll",
+    "upgrade_aquatic:light_gray_bedroll",
+    "upgrade_aquatic:cyan_bedroll",
+    "upgrade_aquatic:purple_bedroll",
+    "upgrade_aquatic:blue_bedroll",
+    "upgrade_aquatic:brown_bedroll",
+    "upgrade_aquatic:green_bedroll",
+    "upgrade_aquatic:red_bedroll",
+    "upgrade_aquatic:black_bedroll",
+    "relics:arrow_quiver",
+    "dungeonnowloading:life_stealer",
+    "theinkarena:soul_slasher",
+    "minecraft:stone_axe",
+    "minecraft:stone_hoe",
+    "minecraft:stone_pickaxe",
+    "minecraft:stone_shovel",
+    "minecraft:stone_sword",
+    "alexscaves_torpedoes:pulsargun",
+    "alexscaves_torpedoes:magnetic_helmet",
+    "alexscaves_torpedoes:pocket_magnet",
+    "alexscaves_torpedoes:torpedo_pulsar",
+    "alexscaves_torpedoes:torpedo_nuclear",
+    "alexscaves_torpedoes:torpedo",
+    "alexscaves_torpedoes:azure_pickaxe",
+    "alexscaves_torpedoes:scarlet_pickaxe",
+    "alexscaves_torpedoes:azure_hoe",
+    "alexscaves_torpedoes:scarlet_hoe",
+    "alexscaves_torpedoes:azure_axe",
+    "alexscaves_torpedoes:scarlet_axe",
+    "alexscaves_torpedoes:azure_shovel",
+    "alexscaves_torpedoes:scarlet_shovel",
+    "biomemakeover:cladded_helmet",
+    "biomemakeover:cladded_chestplate",
+    "biomemakeover:cladded_leggings",
+    "biomemakeover:cladded_boots",
+    "biomemakeover:cladding_upgrade_smithing_template",
+    "trials:crafter",
+    "eeeabsmobs:demolisher",
+    "netherexp:shotgun_fist",
+    "netherexp:shotgun_core",
+    "netherexp:shotgun_barrel",
+    "netherexp:pump_charge_upgrade_smithing_template",
+    "netherexp:pump_charge_shotgun",
+    "artifacts:vampiric_glove",
+    "artifacts:umbrella",
+    "artifacts:scarf_of_invisibility",
+    "artifacts:power_glove",
+    "realmrpg_quests:illager_nose",
+    "artifacts:helium_flamingo",
+    "relics:ice_breaker",
+    "relics:infinity_ham",
+    "celestisynth:traverser_spawn_egg",
+    "celestisynth:star_monolith",
+    "celestisynth:star_monolith_blood",
+    "relics:midnight_robe",
+    "relics:holy_locket",
+    "rubinated_nether:runestone",
+    "rubinated_nether:rubination_altar",
+    "rubinated_nether:ruby_lantern",
+    "relics:rage_glove",
+    "too_many_bows:verdant_vigor",
+    "ramcompat:tendon_lump",
+    "create_sa:netherite_jetpack_chestplate",
+    "create_sa:brass_cube",
+    "create_sa:block_picker",
+    "create_sa:grapplin_whisk",
+    "create_sa:slime_boots",
+    "create_sa:experience_sword",
+    "create_sa:experience_axe",
+    "create_sa:experience_shovel",
+    "create_sa:experience_pickaxe",
+    "create_sa:flamethrower",
+    "create_sa:copper_hoe",
+    "create_sa:copper_shovel",
+    "create_sa:copper_sword",
+    "create_sa:copper_axe",
+    "create_sa:copper_pickaxe",
+    "create_sa:copper_boots",
+    "create_sa:copper_leggings",
+    "create_sa:copper_chestplate",
+    "create_sa:copper_helmet",
+    "create_sa:copper_exoskeleton_chestplate",
+    "create_sa:copper_jetpack_chestplate",
+    "create_sa:copper_magnet",
+    "create_sa:zinc_hoe",
+    "create_sa:zinc_shovel",
+    "create_sa:zinc_sword",
+    "create_sa:zinc_axe",
+    "create_sa:zinc_pickaxe",
+    "create_sa:zinc_boots",
+    "create_sa:zinc_leggings",
+    "create_sa:zinc_chestplate",
+    "create_sa:zinc_helmet",
+    "create_sa:zinc_handle",
+    "create_sa:brass_hoe",
+    "create_sa:brass_shovel",
+    "create_sa:brass_sword",
+    "create_sa:brass_axe",
+    "create_sa:brass_pickaxe",
+    "create_sa:brass_boots",
+    "create_sa:brass_leggings",
+    "create_sa:brass_chestplate",
+    "create_sa:brass_helmet",
+    "create_sa:brass_exoskeleton_chestplate",
+    "create_sa:brass_jetpack_chestplate",
+    "create_sa:rose_quartz_sword",
+    "create_sa:rose_quartz_axe",
+    "create_sa:rose_quartz_shovel",
+    "create_sa:rose_quartz_pickaxe",
+    "create_sa:vault_component",
+    "create_sa:fan_component",
+    "create_sa:brass_drone_item",
+    "create_sa:drone_controller",
+    "create_sa:blazing_cleaver",
+    "create_sa:blazing_axe",
+    "create_sa:blazing_shovel",
+    "create_sa:blazing_pickaxe",
+    "create_sa:andesite_exoskeleton_chestplate",
+    "create_sa:andesite_jetpack_chestplate",
+    "create_sa:hydraulic_engine",
+    "create_sa:heat_engine",
+    "too_many_bows:cyroheart_bow",
+    "born_in_chaos_v1:krampuss_bag",
+    "aquamirae:terrible_sword",
+    "spelunkers_charm:old_miners_bundle",
+    "aquaculture:stone_fillet_knife",
+    "experienceobelisk:experience_jelly",
+    "copycats:copycat_vertical_slope",
+    "copycats:copycat_slope_layer",
+    "copycats:copycat_slope",
+    "naturalist:rattlesnake_spawn_egg",
+    "naturalist:rhino_spawn_egg",
+    "naturalist:elephant_spawn_egg",
+    "naturalist:catfish_spawn_egg",
+    "naturalist:catfish_bucket",
+    "naturalist:cooked_catfish",
+    "naturalist:catfish",
+    "naturalistdelight:cut_cooked_catfish",
+    "naturalistdelight:cut_catfish",
+    "witherstormmod:stone_command_block_pickaxe",
+    "witherstormmod:stone_command_block_sword",
+    "witherstormmod:stone_command_block_axe",
+    "witherstormmod:stone_command_block_shovel",
+    "witherstormmod:stone_command_block_hoe"
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain NBT tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [
+    "alexscaves_torpedoes:universal_magnetism",
+    "netherexp:cartridge",
+    "netherexp:recoil",
+    "netherexp:barrage",
+    "netherexp:bloodshed",
+    "create_sa:gravity_gun",
+    "create_sa:above_the_clouds",
+    "create_sa:hellfire",
+    "create_sa:impact"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "naturescompass:naturescompass",
+    "too_many_bows:ancient_sage_bow",
+    "legendary_monsters:spiky_shield",
+    "born_in_chaos_v1:nightmare_scythe",
+    "create_sa:brass_drill_head",
+    "eeeabsmobs:ghost_warrior_helmet",
+    "eeeabsmobs:ghost_warrior_chestplate",
+    "eeeabsmobs:ghost_warrior_leggings",
+    "eeeabsmobs:ghost_warrior_boots"
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": false
+}

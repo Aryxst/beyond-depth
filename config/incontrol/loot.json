@@ -1,0 +1,114 @@
+[
+    {
+      "mob": "minecraft:pillager",
+      "remove": "biomemakeover:cladded_helmet"
+    },
+    {
+      "mob": "minecraft:pillager",
+      "remove": "biomemakeover:cladded_chestplate"
+    },
+    {
+      "mob": "minecraft:pillager",
+      "remove": "biomemakeover:cladded_leggings"
+    },
+    {
+      "mob": "minecraft:pillager",
+      "remove": "biomemakeover:cladded_boots"
+    },
+    {
+      "mob": "minecraft:pillager",
+      "remove": "biomemakeover:cladding_upgrade_smithing_template"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:vampiric_glove"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:umbrella"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:scarf_of_invisibility"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:power_glove"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:helium_flamingo"
+    },
+    {
+      "mob": "eeeabsmobs:immortal",
+      "player": true,
+      "item": "eeeabsmobs:ghost_steel_ingot",
+      "itemcount": "5-10"
+    },
+    {
+      "mob": "eeeabsmobs:guling_sentinel",
+      "player": true,
+      "item": "eeeabsmobs:immortal_debris",
+      "itemcount": "2-5"
+    },
+    {
+      "mob": "eeeabsmobs:guling_sentinel_heavy",
+      "player": true,
+      "item": "eeeabsmobs:immortal_debris",
+      "itemcount": "7-15"
+    },
+    {
+      "mob": "eeeabsmobs:immortal_golem",
+      "player": true,
+      "item": "eeeabsmobs:immortal_debris",
+      "itemcount": "1-3"
+    },
+    {
+      "mob": "eeeabsmobs:immortal_golem",
+      "player": true,
+      "item": "eeeabsmobs:immortal_bone",
+      "itemcount": "0-1"
+    },
+    {
+      "mob": "eeeabsmobs:nameless_guardian",
+      "player": true,
+      "item": "eeeabsmobs:immortal_debris",
+      "itemcount": "13-29"
+    },
+    {
+      "mob": "minecraft:wither_skeleton",
+      "remove": "minecraft:stone_sword"
+    },
+    {
+      "mob": "minecraft:zombie",
+      "remove": "minecraft:stone_pickaxe"
+    },
+    {
+      "mob": "minecraft:zombie",
+      "remove": "minecraft:stone_sword"
+    },
+    {
+      "mob": "minecraft:zombie",
+      "remove": "minecraft:stone_shovel"
+    },
+    {
+      "mob": "minecraft:zombie",
+      "remove": "minecraft:stone_pickaxe"
+    },
+    {
+      "mob": "minecraft:skeleton",
+      "remove": "minecraft:stone_pickaxe"
+    },
+    {
+      "mob": "minecraft:zombie",
+      "remove": "spelunkers_charm:old_miners_bundle"
+    },
+    {
+      "mob": "minecraft:skeleton",
+      "remove": "spelunkers_charm:old_miners_bundle"
+    },
+    {
+      "mob": "born_in_chaos_v1:krampus",
+      "remove": "born_in_chaos_v1:krampuss_bag"
+    }
+]

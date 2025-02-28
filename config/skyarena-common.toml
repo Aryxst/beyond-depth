@@ -1,0 +1,49 @@
+#Starting points for the altar.
+startingPoints = 500
+#The number of points to increase after each victory.
+pointsIncrease = 100
+#Maximum ratio of remaining points to mob cost for summoning.
+#For example, with a value of 10 and remaining points of 500, mobs with a cost of 50 or less will not be summoned.
+#If no mob can be summoned within 5 attempts, a random mob will be summoned regardless of its cost.
+mobCostRatio = 8
+#Chance for spawning a squad of mobs instead of a single mob.
+#For example, a value of 0.35 means a 35% chance to spawn a squad.
+#Range: 0.0 ~ 1.0
+squadSpawnChance = 0.35
+#Number of mobs in a squad when squad spawning occurs.
+#For example, a value of 3 means 3 identical mobs will spawn.
+#If there are not enough points to spawn the full squad, only as many mobs will spawn as the points allow.
+squadSpawnSize = 3
+#Enables or disables setting the time to night when the battle starts.
+#If true, the game will automatically switch to night time at the start of the battle.
+nightTime = false
+#Enables or disables starting rain when the battle begins.
+#If true, it will start raining at the beginning of the battle.
+enableRain = true
+#Determines whether summoned mobs drop items upon death.
+#If true, summoned mobs will drop their loot as usual.
+#If false, no items will drop from summoned mobs.
+enableMobItemDrop = false
+#Determines whether the reward key can only be used on empty chests.
+#If true, the key cannot be applied to a chest that contains items.
+requireEmptyChest = true
+#List of mobs with their values (e.g., [["minecraft:zombie", 10]])
+mobValues = [["minecraft:pillager", 35], ["born_in_chaos_v1:dire_hound_leader", 200], ["born_in_chaos_v1:siamese_skeletons", 25], ["alexsmobs:murmur", 40], ["cataclysm:coral_golem", 160], ["minecraft:zoglin", 55], ["born_in_chaos_v1:mother_spider", 170], ["born_in_chaos_v1:zombie_bruiser", 80], ["alexsmobs:mimicube", 40], ["born_in_chaos_v1:zombie_lumberjack", 35], ["cataclysm:elite_draugr", 40], ["born_in_chaos_v1:lords_felsteed", 270], ["cataclysm:amethyst_crab", 250], ["netherexp:ecto_slab", 25], ["born_in_chaos_v1:mrs_pumpkin", 30], ["born_in_chaos_v1:spiritof_chaos", 35], ["minecraft:warden", 2000], ["alexsmobs:warped_mosco", 150], ["cataclysm:draugr", 30], ["minecraft:zombified_piglin", 35], ["minecraft:witch", 30], ["born_in_chaos_v1:bloody_gadfly", 25], ["minecraft:wither_skeleton", 45], ["minecraft:husk", 25], ["minecraft:cave_spider", 30], ["born_in_chaos_v1:swarmer", 60], ["born_in_chaos_v1:skeleton_thrasher", 90], ["born_in_chaos_v1:door_knight", 40], ["born_in_chaos_v1:supreme_bonescaller", 130], ["born_in_chaos_v1:zombie_fisherman", 25], ["minecraft:blaze", 40], ["minecraft:skeleton", 30], ["born_in_chaos_v1:felsteed", 80], ["cataclysm:wadjet", 250], ["born_in_chaos_v1:fallen_chaos_knight", 80], ["netherexp:vessel", 30], ["minecraft:ravager", 150], ["realmrpg_wyrms:red_wyrm", 45], ["minecraft:vindicator", 50], ["minecraft:magma_cube", 25], ["born_in_chaos_v1:lifestealer_true_form", 220], ["alexsmobs:rocky_roller", 25], ["cataclysm:royal_draugr", 40], ["minecraft:spider", 20], ["born_in_chaos_v1:scarlet_persecutor", 45], ["alexsmobs:guster", 25], ["minecraft:evoker", 80], ["minecraft:slime", 20], ["born_in_chaos_v1:barrel_zombie", 35], ["born_in_chaos_v1:bonescaller", 40], ["minecraft:illusioner", 45], ["born_in_chaos_v1:dread_hound", 25], ["born_in_chaos_v1:nightmare_stalker", 120], ["netherexp:banshee", 30], ["born_in_chaos_v1:seared_spirit", 65], ["born_in_chaos_v1:spirit_guide", 45], ["cataclysm:the_prowler", 250], ["born_in_chaos_v1:dark_vortex", 55], ["cataclysm:aptrgangr", 250], ["born_in_chaos_v1:decaying_zombie", 25], ["cataclysm:coralssus", 180], ["minecraft:stray", 35], ["cataclysm:ender_golem", 250], ["minecraft:zombie", 20], ["born_in_chaos_v1:zombie_clown", 55], ["realmrpg_wyrms:ender_wyrm", 55]]
+#A list of loot tables for the chest
+lootTables = ["minecraft:chests/abandoned_mineshaft", "minecraft:chests/ancient_city", "minecraft:chests/ancient_city_ice_box", "minecraft:chests/bastion_bridge", "minecraft:chests/bastion_hoglin_stable", "minecraft:chests/bastion_other", "minecraft:chests/bastion_treasure", "minecraft:chests/buried_treasure", "minecraft:chests/desert_pyramid", "minecraft:chests/end_city_treasure", "minecraft:chests/igloo_chest", "minecraft:chests/jungle_temple", "minecraft:chests/nether_bridge", "minecraft:chests/pillager_outpost", "minecraft:chests/ruined_portal", "minecraft:chests/shipwreck_map", "minecraft:chests/shipwreck_supply", "minecraft:chests/shipwreck_treasure", "minecraft:chests/simple_dungeon", "minecraft:chests/spawn_bonus_chest", "minecraft:chests/stronghold_corridor", "minecraft:chests/stronghold_crossing", "minecraft:chests/stronghold_library", "minecraft:chests/underwater_ruin_big", "minecraft:chests/underwater_ruin_small", "minecraft:chests/village/village_armorer", "minecraft:chests/village/village_snowy_house", "minecraft:chests/village/village_temple", "minecraft:chests/village/village_toolsmith", "minecraft:chests/village/village_weaponsmith", "minecraft:chests/woodland_mansion", "minecraft:chests/basic_chest", "minecraft:chests/chest_level_1", "minecraft:chests/chest_level_2", "minecraft:chests/chest_level_3", "minecraft:chests/farm_drop", "minecraft:chests/firewell_d", "minecraft:chests/shater"]
+#Base cost threshold for scaling summoned mobs.
+#If a mob has this cost or higher, it will always be included in the first summon wave.
+#When remaining points exceed this value multiplied by mobCostRatio, mob stats and costs will start increasing.
+#This ensures that difficulty increases by making mobs stronger rather than just summoning more of them.
+baseScalingThreshold = 120
+#Should the defeat message be shown when the player leaves the arena?
+enableLossMessageLeave = true
+#Should the defeat message be shown when the player dies in battle?
+enableLossMessageDeath = true
+#Show an unclaimed reward message when any summoned mob has the Glowing effect.
+enableUnclaimedRewardMessage = true
+#If true, each player has their own points and difficulty level,
+#which are the same across all arenas.
+#If false, each Altar Battle has its own points and difficulty level.
+individualPlayerStats = false
+

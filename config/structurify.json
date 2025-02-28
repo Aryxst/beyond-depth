@@ -1,0 +1,356 @@
+{
+  "config_version": "1.0.11",
+  "general": {
+    "min_structure_distance_from_world_center": 624,
+    "disable_all_structures": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structures": [
+    {
+      "name": "minecraft:pillager_outpost",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "feur_extension_fossil:bones_tree",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "feur_extension_fossil:fossil_fish",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "feur_extension_fossil:skull_camp",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "feur_extension_fossil:small_rex_camp",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "formationsoverworld:copper_spire",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "formationsoverworld:meteor",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "formationsoverworld:witch_tower",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mvs:houses/large_floating_island",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mvs:nature/floating_islands",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "mvs:sunzi_gate",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "philipsruins:ancient_crypt",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 100,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 100,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "philipsruins:ancient_ruins",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "philipsruins:ancient_towers",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "philipsruins:desert_structures",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "philipsruins:field_stone_ruins",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 100,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 100,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "philipsruins:level_one_ruins",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "philipsruins:level_three_ruins",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "philipsruins:level_two_ruins_pool",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "philipsruins:pumpkin_ruins",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "taxtg:giant_jungle_tree",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "taxtg:giant_spruce_tree",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "witherstormmod:storm_spawn_platform",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    }
+  ],
+  "structure_sets": [
+    {
+      "name": "betterdeserttemples:desert_temples",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 23,
+      "separation": 16
+    },
+    {
+      "name": "betterjungletemples:jungle_temples",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 16,
+      "separation": 8
+    },
+    {
+      "name": "dungeonnowloading:labyrinth",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 100,
+      "separation": 24
+    },
+    {
+      "name": "mvs:houses/large_warped_tower",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 102,
+      "separation": 60
+    },
+    {
+      "name": "mvs:houses/warped_house",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 70,
+      "separation": 44
+    },
+    {
+      "name": "realmrpg_quests:anglers_with_all",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 26,
+      "separation": 24
+    },
+    {
+      "name": "realmrpg_quests:cooks_with_all",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 28,
+      "separation": 20
+    },
+    {
+      "name": "realmrpg_quests:headless_skeletons_with_all",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 22,
+      "separation": 16
+    },
+    {
+      "name": "realmrpg_quests:lumberjacks_with_all",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 28,
+      "separation": 22
+    },
+    {
+      "name": "realmrpg_quests:miners_with_all",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 40,
+      "separation": 26
+    },
+    {
+      "name": "realmrpg_quests:monster_hunters_with_all",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 30,
+      "separation": 26
+    },
+    {
+      "name": "trials:trials_chambers",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 40,
+      "separation": 30
+    },
+    {
+      "name": "undergarden:catacombs",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 16,
+      "separation": 10
+    },
+    {
+      "name": "valhelsia_structures:deep_spawner_rooms",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 30,
+      "separation": 15
+    },
+    {
+      "name": "valhelsia_structures:spawner_rooms",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 30,
+      "separation": 15
+    }
+  ]
+}

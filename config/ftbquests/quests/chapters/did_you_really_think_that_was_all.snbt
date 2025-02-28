@@ -1,0 +1,107 @@
+{
+	autofocus_id: "31042EB1B922FFEB"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "did_you_really_think_that_was_all"
+	group: "313FA60A29F51B68"
+	id: "3AD658786326DE25"
+	images: [
+		{
+			color: 16716805
+			height: 2.0d
+			image: "eeeabsmobs:textures/effects/immortal_magic_circle/none.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "eeeabsmobs:textures/particle/red_glint.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "eeeabsmobs:textures/particle/red_glint.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "eeeabsmobs:textures/particle/red_glint.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "eeeabsmobs:textures/particle/red_glint.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "eeeabsmobs:textures/particle/red_glint.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			alpha: 180
+			height: 5000.0d
+			image: "voidscape:block/black"
+			order: -4
+			rotation: 0.0d
+			width: 5000.0d
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [{
+		description: ["Congrats on crafting keres.. Requires a guardian core to awaken!"]
+		id: "31042EB1B922FFEB"
+		invisible: true
+		rewards: [{
+			auto: "disabled"
+			command: "/summon eeeabsmobs:immortal"
+			elevate_perms: true
+			icon: "eeeabsmobs:ghost_steel_ingot"
+			id: "311B0B1DCCF76197"
+			team_reward: false
+			title: "SUMMON THE IMMORTAL?!?"
+			type: "command"
+		}]
+		shape: "square"
+		tasks: [{
+			id: "2DDD9715E5B102F1"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "celestisynth:keres"
+				tag: {
+					Damage: 0
+				}
+			}
+			type: "item"
+		}]
+		title: "???"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "???"
+}

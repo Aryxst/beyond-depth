@@ -1,0 +1,1044 @@
+[
+    {
+        "mob": "biomemakeover:decayed",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:giant",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "biomemakeover:dragonfly",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "bygonenether:wither_skeleton_horse",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "naturalist:rhino",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "naturalist:elephant",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "naturalist:catfish",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "naturalist:rattlesnake",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "celestisynth:traverser",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "celestisynth:star_monolith",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:nightmare_stalker",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dark_vortex",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dark_vortex",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dread_hound",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:decaying_zombie",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:mother_spider",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:siamese_skeletons",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:phantom_creeper",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:baby_skeleton",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:swarmer",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:decrepit_skeleton",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:corpse_fly",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:bonescaller",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:restless_spirit",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:baby_spider",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:door_knight",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:skeleton_demoman",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:zombie_clown",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:zombie_bruiser",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:fallen_chaos_knight",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:skeleton_thrasher",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dire_hound_leader",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:spiritof_chaos",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:supreme_bonescaller",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:barrel_zombie",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:missioner",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:nightmare_stalker",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dark_vortex",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dark_vortex",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dread_hound",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:decaying_zombie",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:mother_spider",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:siamese_skeletons",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:phantom_creeper",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:baby_skeleton",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:swarmer",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:decrepit_skeleton",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:corpse_fly",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:bonescaller",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:restless_spirit",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:baby_spider",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:door_knight",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:skeleton_demoman",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:zombie_clown",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:zombie_bruiser",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:fallen_chaos_knight",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:skeleton_thrasher",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dire_hound_leader",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:spiritof_chaos",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:supreme_bonescaller",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:barrel_zombie",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:missioner",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:nightmare_stalker",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dark_vortex",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dark_vortex",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dread_hound",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:decaying_zombie",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:mother_spider",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:siamese_skeletons",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:phantom_creeper",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:baby_skeleton",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:swarmer",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:decrepit_skeleton",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:corpse_fly",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:bonescaller",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:restless_spirit",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:baby_spider",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:door_knight",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:skeleton_demoman",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:zombie_clown",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:zombie_bruiser",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:fallen_chaos_knight",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:skeleton_thrasher",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dire_hound_leader",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:spiritof_chaos",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:supreme_bonescaller",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:barrel_zombie",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:missioner",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:nightmare_stalker",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dark_vortex",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dark_vortex",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dread_hound",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:decaying_zombie",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:mother_spider",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:siamese_skeletons",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:phantom_creeper",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:baby_skeleton",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:swarmer",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:decrepit_skeleton",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:corpse_fly",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:bonescaller",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:restless_spirit",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:baby_spider",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:door_knight",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:skeleton_demoman",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:zombie_clown",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:zombie_bruiser",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:fallen_chaos_knight",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:skeleton_thrasher",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dire_hound_leader",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:spiritof_chaos",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:supreme_bonescaller",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:barrel_zombie",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:missioner",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:nightmare_stalker",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dark_vortex",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dark_vortex",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dread_hound",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:decaying_zombie",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:mother_spider",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:siamese_skeletons",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:phantom_creeper",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:baby_skeleton",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:swarmer",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:decrepit_skeleton",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:corpse_fly",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:bonescaller",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:restless_spirit",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:baby_spider",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:door_knight",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:skeleton_demoman",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:zombie_clown",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:zombie_bruiser",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:fallen_chaos_knight",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:skeleton_thrasher",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:dire_hound_leader",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:spiritof_chaos",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:supreme_bonescaller",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:barrel_zombie",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:missioner",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "alexsmobs:enderiophage",
+        "dimension": "minecraft:the_end",
+        "biome": "minecraft:end_highlands",
+        "minheight": 1,
+        "maxheight": 55,
+        "result": "allow"
+    },
+    {
+        "mob": "born_in_chaos_v1:lifestealer",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:lifestealer",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:lifestealer",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:lifestealer",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "born_in_chaos_v1:lifestealer",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:zombie_villager",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:zombie_villager",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:zombie_villager",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:husk",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:husk",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:husk",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:husk",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:husk",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:skeleton",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:skeleton",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:skeleton",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:stray",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:stray",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:stray",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:stray",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "minecraft:stray",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:illusioner",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:illusioner",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:illusioner",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:illusioner",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:illusioner",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:tank",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:tank",
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:tank",
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:tank",
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:tank",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    }
+]

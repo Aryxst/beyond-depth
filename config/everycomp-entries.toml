@@ -1,0 +1,177 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.netherexp]
+			claret = true
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.valhelsia_structures]
+			lapidified_jungle = true
+
+		[types.wood_type.born_in_chaos_v1]
+			scorched = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.voidscape]
+			thunder = true
+
+		[types.wood_type.betterarcheology]
+			rotten = true
+
+		[types.wood_type.snifferplus]
+			stone_pine = true
+
+		[types.wood_type.deeperdarker]
+			echo = true
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
+		[types.wood_type.palegardenbackport]
+			pale_oak = true
+
+		[types.wood_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.wood_type.witherstormmod]
+			tainted = true
+
+		[types.wood_type.biomemakeover]
+			blighted_balsa = true
+			willow = true
+			swamp_cypress = true
+			ancient_oak = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.alexscaves]
+			ancient = true
+
+		[types.leaves_type.snifferplus]
+			stone_pine = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+		[types.leaves_type.palegardenbackport]
+			pale_oak = true
+
+		[types.leaves_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.leaves_type.witherstormmod]
+			tainted = true
+
+		[types.leaves_type.biomemakeover]
+			blighted_balsa = true
+			willow = true
+			swamp_cypress = true
+			ancient_oak = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.valhelsia_structures]
+			bundled_stripped_posts = true
+			stripped_post = true
+			cut_post = true
+			bundled_posts = true
+			post = true
+			cut_stripped_post = true
+
+		[entries.wood_type.friendsandfoes]
+			beehive = true
+
+		[entries.wood_type.storagedrawers]
+			trim = true
+			full_drawers_2 = true
+			half_drawers_1 = true
+			full_drawers_4 = true
+			half_drawers_4 = true
+			half_drawers_2 = true
+			full_drawers_1 = true
+
+		[entries.wood_type.decorative_blocks]
+			beam = true
+			support = true
+			seat = true
+			palisade = true
+
+		[entries.wood_type.valhelsia_furniture]
+			table = true
+			stool = true
+			hay_chair = true
+			chair = true
+			desk_drawer = true
+			desk = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.shutter]
+			shutter = true
+
+		[entries.wood_type.woodworks]
+			trapped_chest = true
+			boards = true
+			chest = true
+			beehive = false
+			bookshelf = true
+			chiseled_bookshelf = true
+			ladder = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.mcwtrpdoors]
+			ranch_trapdoor = true
+			classic_trapdoor = true
+			bamboo_trapdoor = true
+			beach_trapdoor = true
+			swamp_trapdoor = true
+			barn_trapdoor = true
+			four_panel_trapdoor = true
+			glass_trapdoor = true
+			barred_trapdoor = true
+			blossom_trapdoor = true
+			tropical_trapdoor = true
+			cottage_trapdoor = true
+			paper_trapdoor = true
+			bark_trapdoor = true
+			mystic_trapdoor = true
+			barrel_trapdoor = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.woodworks]
+			leaf_pile = false
+
