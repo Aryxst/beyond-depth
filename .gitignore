@@ -19,6 +19,10 @@ fancymenu_data/
 local/
 data/
 controllable_natives/
+xaero/
+modernfix/
+usercache.json
+usernamecache.json
 icon.png
 knownkeys.txt
 options.txt
@@ -435,3 +439,4 @@ config/fabric/indigo-renderer.properties
 config/sound_physics_remastered/occlusion.properties
 config/sound_physics_remastered/reflectivity.properties
 config/forgeendertech/cached.dat
+config/forgeendertech/Biomes/minecraft$mangrove_swamp.cfg
